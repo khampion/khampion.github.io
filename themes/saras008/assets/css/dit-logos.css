@@ -1,0 +1,65 @@
+@font-face {
+    font-family: dit-logos;
+    src: url(../font/dit-logos.eot?7813989);
+    src: url(../font/dit-logos.eot?7813989#iefix) format('embedded-opentype'),url(../font/dit-logos.woff2?7813989) format('woff2'),url(../font/dit-logos.woff?7813989) format('woff'),url(../font/dit-logos.ttf?7813989) format('truetype'),url(../font/dit-logos.svg?7813989#dit-logos) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+[class^=icon-]:before,[class*=" icon-"]:before {
+    font-family: dit-logos;
+    font-style: normal;
+    font-weight: 400;
+    speak: never;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-down-open:before {
+    content: '\e800'
+}
+
+.icon-android-brands:before {
+    content: '\e801'
+}
+
+.icon-down-big:before {
+    content: '\e802'
+}
+
+.icon-icon-arrow-down-solid:before {
+    content: '\e803'
+}
+
+.icon-icon-hellipsis:before {
+    content: '\e804'
+}
+
+.icon-ok:before {
+    content: '\e805'
+}
+
+.icon-cancel:before {
+    content: '\e806'
+}
+
+.icon-ellipsis:before {
+    content: '\f141'
+}
+
+.icon-apple:before {
+    content: '\f179'
+}
+
+.icon-windows:before {
+    content: '\f17a'
+}
